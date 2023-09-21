@@ -13,7 +13,7 @@ namespace ChessBoard
         { 
             Console.OutputEncoding = System.Text.Encoding.Unicode; // line of code so the unicode "text" will show.
             Console.InputEncoding = System.Text.Encoding.Unicode; // line of code so emojis from the user are shown.
-            Console.WriteLine("Skriv in en siffra för hur stort shackbräde du vill ha:"); // Asks the user to typ in an number so the program knows how big chessboard it will make. 😸
+            Console.WriteLine("Skriv in en siffra för hur stort 'schackbräde' du vill ha:"); // Asks the user to typ in an number so the program knows how big chessboard it will make. 😸
             int Number; // Declares an variable
             while (true) 
             {
